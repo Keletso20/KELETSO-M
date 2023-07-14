@@ -1,7 +1,7 @@
 # KELETSO-M
 - 👋 Hi, My name is Sifiso Mgidi but my preferred name is Keletso.
-- This is my seccond account,
-- here is the link to my first account: https://github.com/SIFISO-M/SIFISO-M/
+-     This is my seccond account,
+-     Here is the link to my first account: https://github.com/SIFISO-M/SIFISO-M/
 - 👀 I’m interested in good music and nice food.
 - 🌱 I’m currently learning data science in python and exposing myself to some bit of java
 - 💞️ I’m looking to collaborate on python  and java projects that will both challenge and enrich me.
